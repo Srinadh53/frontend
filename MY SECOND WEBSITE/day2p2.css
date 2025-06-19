@@ -1,0 +1,55 @@
+.profile{
+    background-color: lightblue;
+    text-align: center;
+    color: rgb(53, 148, 148);
+    padding: 15px;
+    margin: 20px;
+    border: 5px solid;
+    border-radius: 3px;
+}
+.article1{
+    background-color: aqua;
+    text-align: center;
+    color: coral;
+    padding: 10px;
+    margin: 20px;
+    border: 5px double;
+}
+.article2{
+    background-color: aqua;
+    text-align: center;
+    color: coral;
+    padding: 10px;
+    margin: 20px;
+    border: 5px double
+}
+.follow{
+    background-color: lightblue;
+    text-align: center;
+    color: rgb(3, 3, 3);
+    padding: 15px;
+    margin: 20px;
+    border: 5px solid;
+    border-radius: 3px;
+}
+.mypic{
+    width: 350px;
+    height: 450px;
+    border: 5px dotted black;
+    border-radius: 2px;
+}
+.article{
+    width: 600px;
+    height: 500pxs;
+    border-radius: 19%;
+}
+h2{
+    color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: black;
+    background-color: red;
+    text-align: center;
+    padding: 20px;
+}

@@ -1,0 +1,43 @@
+.container{
+    text-align: center;
+}
+
+.navbar-nav{
+    padding: 50px;
+}
+.card-text{
+    text-align: center;
+}
+.main h2{
+    color: black;
+}
+.menu{
+    padding: 50px;
+    background-color: black;
+    color: antiquewhite;
+}   
+.special-items{
+    padding-top: 50px;
+}
+.special-items .card-body{
+    padding: 50px;
+}    
+.menu{
+    text-align: center;
+    padding-left: 110px;
+}
+.Contact{
+    background-color: black;
+    height: 270px;
+}
+.Contact .card-body{
+    height: 250px;
+    background-color: black;
+    color: aliceblue;
+}
+.footer{
+    background-color: #ff0000;
+    text-align: center;
+    color: whitesmoke;
+    padding: 50px;
+}

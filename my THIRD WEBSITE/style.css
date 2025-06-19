@@ -1,0 +1,28 @@
+.list{
+    
+    background-color: lightgreen;
+}
+h2{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+}
+.img{
+    width: 250px;
+    height: 300px;
+    border-radius: 50%;
+}
+.carousel-inner{
+    justify-content:center;
+    width:1000;
+    height: 450px;
+}
+.form{
+    margin-bottom: 25px;
+}
+.body{
+    text-align: center;
+}
